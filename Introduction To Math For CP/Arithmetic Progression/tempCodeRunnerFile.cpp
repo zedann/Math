@@ -1,0 +1,1 @@
+cout << isPower2(n);
